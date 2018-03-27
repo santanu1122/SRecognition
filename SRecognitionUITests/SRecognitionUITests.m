@@ -2,7 +2,7 @@
 //  SRecognitionUITests.m
 //  SRecognitionUITests
 //
-//  Created by TCG Digital on 27/03/18.
+//  Created by TSantanu Das Adhikary on 27/03/18.
 //  Copyright © 2018 Santanu. All rights reserved.
 //
 
